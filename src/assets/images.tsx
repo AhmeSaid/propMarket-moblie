@@ -1,0 +1,16 @@
+export const Logo = require('./images/logo.png');
+export const Home = require('./images/home.png');
+export const Loc = require('./images/loc.png');
+export const Filter = require('./images/filter.png');
+export const Flag = require('./images/saudia.png');
+export const WidePng = require('./images/wide.png');
+export const WideBlack = require('./images/WideBlack.png');
+export const background1 = require('./images/background1.png');
+export const background2 = require('./images/background1.png');
+export const onboarding1 = require('./images/onbaording1.png');
+export const onboarding2 = require('./images/onbaording2.png');
+export const onboarding3 = require('./images/onbaording3.png');
+export const whiteLogo = require('./images/whiteLogo.png');
+export const HomeLogo = require('./images/homeIcon.png');
+export const PropType = require('./images/propType.png');
+export const kitchen = require('./images/kitchen.png');
